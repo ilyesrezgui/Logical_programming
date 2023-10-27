@@ -2,7 +2,7 @@
 # Logical Programming Repository (Prolog)
 Welcome to the Logical Programming Repository! This repository is dedicated to logical programming, with a specific focus on Prolog. Whether you are a seasoned Prolog developer or a newcomer to logical programming, this repository aims to provide you with valuable resources and examples to enhance your understanding and skills in the world of logic-based programming.
 
-* Table of Contents
+
 * About Prolog
 * Getting Started
 

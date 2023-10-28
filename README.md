@@ -18,3 +18,6 @@ Tutorials and Documentation: Check out the tutorials and documentation in the do
 
 Code Examples: Explore the examples directory for a collection of Prolog code samples covering a range of topics and problem-solving scenarios.
 
+
+* Family_Tree_1 : Is an example that presents Fact, Rules and Queries for a family tree.
+

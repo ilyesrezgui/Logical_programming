@@ -20,7 +20,7 @@ Code Examples: Explore the examples directory for a collection of Prolog code sa
 
 
 * Family_Tree_1 : Is an example that presents Fact, Rules and Queries for a family tree.
-* Recursion  : Represnts simple examples of recursion use.
+* Recursion : Represnts simple examples of recursive methods.
 * Recursion 2: Presents recurssion rules . (function for 4 different methods).
 
 
